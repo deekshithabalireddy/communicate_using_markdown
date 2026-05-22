@@ -21,6 +21,9 @@ In this course, you will:
 5. Merge your pull request
 
 ### How to start this course
+# Headings 1
+## Headings 2
+### Headings 3
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
